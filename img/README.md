@@ -24,7 +24,7 @@ This is a fiction multiple pages website for a furniture company. I developed t
 
 * Clone the code using the terminal command line or download zip file 
 * Open the directory using your preferred text editor 
-* Navigate to index.html 
+* Navigate to index.html
 * Open in live-server or your preferred web browser 
 
 
