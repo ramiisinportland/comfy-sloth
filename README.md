@@ -17,7 +17,7 @@
 
 
 
-This is a fiction multiple pages website for a furniture company. I developed the site to hone my Bootstrap skills. I focused heavily on using bootstrap classes to style the store. I also used CSS to add more style and overwritten some of the bootstrap classes in order to enforce my own style. The store is static for now, but I am working on making it dynamic in the near future and I will be using JavaScript and PHP._
+This is a fiction multiple pages website for a furniture company. I developed the site to hone my Bootstrap skills. I focused heavily on using bootstrap classes to style the store. I also used CSS to add more style and overwritten some of the bootstrap classes in order to enforce my own style. The store is static for now, but I am working on making it dynamic in the near future and I will be using JavaScript and PHP.
 
 
 ## Setup / Installation Requirements ⚙️
